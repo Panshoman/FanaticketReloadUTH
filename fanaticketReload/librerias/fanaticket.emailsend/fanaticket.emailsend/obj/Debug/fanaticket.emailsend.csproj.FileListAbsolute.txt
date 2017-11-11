@@ -1,0 +1,34 @@
+c:\users\diabo\onedrive\documents\visual studio 2017\Projects\fanaticket.emailsend\fanaticket.emailsend\bin\Debug\fanaticket.emailsend.dll
+c:\users\diabo\onedrive\documents\visual studio 2017\Projects\fanaticket.emailsend\fanaticket.emailsend\bin\Debug\fanaticket.emailsend.pdb
+c:\users\diabo\onedrive\documents\visual studio 2017\Projects\fanaticket.emailsend\fanaticket.emailsend\bin\Debug\MySql.Data.dll
+c:\users\diabo\onedrive\documents\visual studio 2017\Projects\fanaticket.emailsend\fanaticket.emailsend\bin\Debug\MySql.Data.xml
+c:\users\diabo\onedrive\documents\visual studio 2017\Projects\fanaticket.emailsend\fanaticket.emailsend\obj\Debug\fanaticket.emailsend.csprojResolveAssemblyReference.cache
+c:\users\diabo\onedrive\documents\visual studio 2017\Projects\fanaticket.emailsend\fanaticket.emailsend\obj\Debug\fanaticket.emailsend.dll
+c:\users\diabo\onedrive\documents\visual studio 2017\Projects\fanaticket.emailsend\fanaticket.emailsend\obj\Debug\fanaticket.emailsend.pdb
+C:\Users\diabo\OneDrive\uth\ALONSO_FINAL\fanaticket.emailsend\fanaticket.emailsend\bin\Debug\fanaticket.emailsend.dll
+C:\Users\diabo\OneDrive\uth\ALONSO_FINAL\fanaticket.emailsend\fanaticket.emailsend\bin\Debug\fanaticket.emailsend.pdb
+C:\Users\diabo\OneDrive\uth\ALONSO_FINAL\fanaticket.emailsend\fanaticket.emailsend\bin\Debug\MySql.Data.dll
+C:\Users\diabo\OneDrive\uth\ALONSO_FINAL\fanaticket.emailsend\fanaticket.emailsend\bin\Debug\MySql.Data.xml
+C:\Users\diabo\OneDrive\uth\ALONSO_FINAL\fanaticket.emailsend\fanaticket.emailsend\obj\Debug\fanaticket.emailsend.csprojResolveAssemblyReference.cache
+C:\Users\diabo\OneDrive\uth\ALONSO_FINAL\fanaticket.emailsend\fanaticket.emailsend\obj\Debug\fanaticket.emailsend.dll
+C:\Users\diabo\OneDrive\uth\ALONSO_FINAL\fanaticket.emailsend\fanaticket.emailsend\obj\Debug\fanaticket.emailsend.pdb
+C:\Users\diabo\OneDrive\middleware\Fanaticket\librerias\fanaticket.emailsend\fanaticket.emailsend\bin\Debug\fanaticket.emailsend.dll
+C:\Users\diabo\OneDrive\middleware\Fanaticket\librerias\fanaticket.emailsend\fanaticket.emailsend\bin\Debug\fanaticket.emailsend.pdb
+C:\Users\diabo\OneDrive\middleware\Fanaticket\librerias\fanaticket.emailsend\fanaticket.emailsend\bin\Debug\MySql.Data.dll
+C:\Users\diabo\OneDrive\middleware\Fanaticket\librerias\fanaticket.emailsend\fanaticket.emailsend\bin\Debug\MySql.Data.xml
+C:\Users\diabo\OneDrive\middleware\Fanaticket\librerias\fanaticket.emailsend\fanaticket.emailsend\obj\Debug\fanaticket.emailsend.csprojResolveAssemblyReference.cache
+C:\Users\diabo\OneDrive\middleware\Fanaticket\librerias\fanaticket.emailsend\fanaticket.emailsend\obj\Debug\fanaticket.emailsend.dll
+C:\Users\diabo\OneDrive\middleware\Fanaticket\librerias\fanaticket.emailsend\fanaticket.emailsend\obj\Debug\fanaticket.emailsend.pdb
+C:\Users\Bollos\Desktop\el bueno\middleware\Fanaticket\librerias\fanaticket.emailsend\fanaticket.emailsend\bin\Debug\fanaticket.emailsend.dll
+C:\Users\Bollos\Desktop\el bueno\middleware\Fanaticket\librerias\fanaticket.emailsend\fanaticket.emailsend\bin\Debug\fanaticket.emailsend.pdb
+C:\Users\Bollos\Desktop\el bueno\middleware\Fanaticket\librerias\fanaticket.emailsend\fanaticket.emailsend\obj\Debug\fanaticket.emailsend.csprojResolveAssemblyReference.cache
+C:\Users\Bollos\Desktop\el bueno\middleware\Fanaticket\librerias\fanaticket.emailsend\fanaticket.emailsend\obj\Debug\fanaticket.emailsend.dll
+C:\Users\Bollos\Desktop\el bueno\middleware\Fanaticket\librerias\fanaticket.emailsend\fanaticket.emailsend\obj\Debug\fanaticket.emailsend.pdb
+F:\Desktop\Fanaticket\librerias\fanaticket.emailsend\fanaticket.emailsend\bin\Debug\fanaticket.emailsend.dll
+F:\Desktop\Fanaticket\librerias\fanaticket.emailsend\fanaticket.emailsend\bin\Debug\fanaticket.emailsend.pdb
+F:\Desktop\Fanaticket\librerias\fanaticket.emailsend\fanaticket.emailsend\bin\Debug\MySql.Data.dll
+F:\Desktop\Fanaticket\librerias\fanaticket.emailsend\fanaticket.emailsend\bin\Debug\MySql.Data.xml
+F:\Desktop\Fanaticket\librerias\fanaticket.emailsend\fanaticket.emailsend\obj\Debug\fanaticket.emailsend.csprojResolveAssemblyReference.cache
+F:\Desktop\Fanaticket\librerias\fanaticket.emailsend\fanaticket.emailsend\obj\Debug\fanaticket.emailsend.csproj.CoreCompileInputs.cache
+F:\Desktop\Fanaticket\librerias\fanaticket.emailsend\fanaticket.emailsend\obj\Debug\fanaticket.emailsend.dll
+F:\Desktop\Fanaticket\librerias\fanaticket.emailsend\fanaticket.emailsend\obj\Debug\fanaticket.emailsend.pdb
