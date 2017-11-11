@@ -1,0 +1,34 @@
+c:\users\diabo\onedrive\documents\visual studio 2017\Projects\AdminUsuarios\AdminUsuarios\bin\Debug\AdminUsuarios.dll
+c:\users\diabo\onedrive\documents\visual studio 2017\Projects\AdminUsuarios\AdminUsuarios\bin\Debug\AdminUsuarios.pdb
+c:\users\diabo\onedrive\documents\visual studio 2017\Projects\AdminUsuarios\AdminUsuarios\obj\Debug\AdminUsuarios.dll
+c:\users\diabo\onedrive\documents\visual studio 2017\Projects\AdminUsuarios\AdminUsuarios\obj\Debug\AdminUsuarios.pdb
+C:\Users\diabo\OneDrive\middleware\Fanaticket\librerias\AdminUsuarios\AdminUsuarios\bin\Debug\AdminUsuarios.dll
+C:\Users\diabo\OneDrive\middleware\Fanaticket\librerias\AdminUsuarios\AdminUsuarios\bin\Debug\AdminUsuarios.pdb
+C:\Users\diabo\OneDrive\middleware\Fanaticket\librerias\AdminUsuarios\AdminUsuarios\bin\Debug\conectaBD.dll
+C:\Users\diabo\OneDrive\middleware\Fanaticket\librerias\AdminUsuarios\AdminUsuarios\bin\Debug\MySql.Data.dll
+C:\Users\diabo\OneDrive\middleware\Fanaticket\librerias\AdminUsuarios\AdminUsuarios\bin\Debug\conectaBD.pdb
+C:\Users\diabo\OneDrive\middleware\Fanaticket\librerias\AdminUsuarios\AdminUsuarios\bin\Debug\MySql.Data.xml
+C:\Users\diabo\OneDrive\middleware\Fanaticket\librerias\AdminUsuarios\AdminUsuarios\obj\Debug\AdminUsuarios.csprojResolveAssemblyReference.cache
+C:\Users\diabo\OneDrive\middleware\Fanaticket\librerias\AdminUsuarios\AdminUsuarios\obj\Debug\AdminUsuarios.dll
+C:\Users\diabo\OneDrive\middleware\Fanaticket\librerias\AdminUsuarios\AdminUsuarios\obj\Debug\AdminUsuarios.pdb
+C:\Users\Bollos\Desktop\el bueno\middleware\Fanaticket\librerias\AdminUsuarios\AdminUsuarios\bin\Debug\AdminUsuarios.dll
+C:\Users\Bollos\Desktop\el bueno\middleware\Fanaticket\librerias\AdminUsuarios\AdminUsuarios\bin\Debug\AdminUsuarios.pdb
+C:\Users\Bollos\Desktop\el bueno\middleware\Fanaticket\librerias\AdminUsuarios\AdminUsuarios\obj\Debug\AdminUsuarios.csprojResolveAssemblyReference.cache
+C:\Users\Bollos\Desktop\el bueno\middleware\Fanaticket\librerias\AdminUsuarios\AdminUsuarios\obj\Debug\AdminUsuarios.dll
+C:\Users\Bollos\Desktop\el bueno\middleware\Fanaticket\librerias\AdminUsuarios\AdminUsuarios\obj\Debug\AdminUsuarios.pdb
+C:\Users\Bollos\Desktop\el bueno\middleware\Fanaticket\librerias\AdminUsuarios\AdminUsuarios\bin\Debug\libConectaBDSQL.dll
+C:\Users\Bollos\Desktop\el bueno\middleware\Fanaticket\librerias\AdminUsuarios\AdminUsuarios\bin\Debug\libConectaBDSQL.pdb
+C:\Users\Bollos\Desktop\el bueno\middleware\Fanaticket\librerias\AdminUsuarios\AdminUsuarios\bin\Debug\conectaBD.dll
+C:\Users\Bollos\Desktop\el bueno\middleware\Fanaticket\librerias\AdminUsuarios\AdminUsuarios\bin\Debug\conectaBD.pdb
+C:\Users\diabo\OneDrive\Documents\Visual Studio 2017\Projects\fanaticketReload\librerias\AdminUsuarios\AdminUsuarios\obj\Debug\AdminUsuarios.csprojResolveAssemblyReference.cache
+C:\Users\diabo\OneDrive\Documents\Visual Studio 2017\Projects\fanaticketReload\librerias\AdminUsuarios\AdminUsuarios\obj\Debug\AdminUsuarios.dll
+C:\Users\diabo\OneDrive\Documents\Visual Studio 2017\Projects\fanaticketReload\librerias\AdminUsuarios\AdminUsuarios\obj\Debug\AdminUsuarios.pdb
+C:\Users\diabo\OneDrive\Documents\Visual Studio 2017\Projects\fanaticketReload\librerias\AdminUsuarios\AdminUsuarios\bin\Debug\AdminUsuarios.dll
+C:\Users\diabo\OneDrive\Documents\Visual Studio 2017\Projects\fanaticketReload\librerias\AdminUsuarios\AdminUsuarios\bin\Debug\AdminUsuarios.pdb
+C:\Users\diabo\OneDrive\Documents\Visual Studio 2017\Projects\fanaticketReload\librerias\AdminUsuarios\AdminUsuarios\bin\Debug\libConectaBD.dll
+C:\Users\diabo\OneDrive\Documents\Visual Studio 2017\Projects\fanaticketReload\librerias\AdminUsuarios\AdminUsuarios\bin\Debug\MySql.Data.dll
+C:\Users\diabo\OneDrive\Documents\Visual Studio 2017\Projects\fanaticketReload\librerias\AdminUsuarios\AdminUsuarios\bin\Debug\libConectaBD.pdb
+C:\Users\diabo\OneDrive\Documents\Visual Studio 2017\Projects\fanaticketReload\librerias\AdminUsuarios\AdminUsuarios\bin\Debug\MySql.Data.xml
+C:\Users\diabo\OneDrive\Documents\Visual Studio 2017\Projects\fanaticketReload\librerias\AdminUsuarios\AdminUsuarios\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\diabo\OneDrive\Documents\Visual Studio 2017\Projects\fanaticketReload\librerias\AdminUsuarios\AdminUsuarios\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\diabo\OneDrive\Documents\Visual Studio 2017\Projects\fanaticketReload\librerias\AdminUsuarios\AdminUsuarios\bin\Debug\libConectaBD.dll.config

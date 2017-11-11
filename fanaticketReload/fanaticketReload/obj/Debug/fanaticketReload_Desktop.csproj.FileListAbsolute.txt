@@ -1,0 +1,184 @@
+C:\Users\diabo\Desktop\fanaticketReload\fanaticketReload\bin\Debug\fanaticketReload.exe.config
+C:\Users\diabo\Desktop\fanaticketReload\fanaticketReload\bin\Debug\fanaticketReload.exe
+C:\Users\diabo\Desktop\fanaticketReload\fanaticketReload\bin\Debug\fanaticketReload.pdb
+C:\Users\diabo\Desktop\fanaticketReload\fanaticketReload\bin\Debug\AdminUsuarios.dll
+C:\Users\diabo\Desktop\fanaticketReload\fanaticketReload\bin\Debug\libConectaBD.dll
+C:\Users\diabo\Desktop\fanaticketReload\fanaticketReload\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\diabo\Desktop\fanaticketReload\fanaticketReload\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\diabo\Desktop\fanaticketReload\fanaticketReload\bin\Debug\MySql.Data.dll
+C:\Users\diabo\Desktop\fanaticketReload\fanaticketReload\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\diabo\Desktop\fanaticketReload\fanaticketReload\bin\Debug\AdminUsuarios.pdb
+C:\Users\diabo\Desktop\fanaticketReload\fanaticketReload\bin\Debug\libConectaBD.pdb
+C:\Users\diabo\Desktop\fanaticketReload\fanaticketReload\bin\Debug\libConectaBD.dll.config
+C:\Users\diabo\Desktop\fanaticketReload\fanaticketReload\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\diabo\Desktop\fanaticketReload\fanaticketReload\bin\Debug\MySql.Data.xml
+C:\Users\diabo\Desktop\fanaticketReload\fanaticketReload\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\diabo\Desktop\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.csprojResolveAssemblyReference.cache
+C:\Users\diabo\Desktop\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.Admin.resources
+C:\Users\diabo\Desktop\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.Login.resources
+C:\Users\diabo\Desktop\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.logo.resources
+C:\Users\diabo\Desktop\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.menu.resources
+C:\Users\diabo\Desktop\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.Saludo.resources
+C:\Users\diabo\Desktop\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.Properties.Resources.resources
+C:\Users\diabo\Desktop\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.csproj.GenerateResource.Cache
+C:\Users\diabo\Desktop\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload.exe
+C:\Users\diabo\Desktop\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload.pdb
+C:\Users\diabo\Desktop\fanaticketReload\fanaticketReload\bin\Debug\libFanaticket.dll
+C:\Users\diabo\Desktop\fanaticketReload\fanaticketReload\bin\Debug\libFanaticket.pdb
+C:\Users\diabo\Desktop\fanaticketReload\fanaticketReload\bin\Debug\Npgsql.dll
+C:\Users\diabo\Desktop\fanaticketReload\fanaticketReload\bin\Debug\Npgsql.xml
+C:\Users\diabo\Desktop\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.csproj.fanaticketReload.exe.config
+C:\Users\diabo\Desktop\fanaticketReload\fanaticketReload\bin\Debug\libValidaciones.dll
+C:\Users\diabo\Desktop\fanaticketReload\fanaticketReload\bin\Debug\libValidaciones.pdb
+E:\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.csprojResolveAssemblyReference.cache
+E:\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.csproj.fanaticketReload.exe.config
+E:\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.Admin.resources
+E:\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.Login.resources
+E:\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.logo.resources
+E:\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.menu.resources
+E:\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.Saludo.resources
+E:\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.Properties.Resources.resources
+E:\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.csproj.GenerateResource.Cache
+E:\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.csproj.CoreCompileInputs.cache
+E:\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload.exe
+E:\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload.pdb
+E:\fanaticketReload\fanaticketReload\bin\Debug\fanaticketReload.exe.config
+E:\fanaticketReload\fanaticketReload\bin\Debug\fanaticketReload.exe
+E:\fanaticketReload\fanaticketReload\bin\Debug\fanaticketReload.pdb
+E:\fanaticketReload\fanaticketReload\bin\Debug\AdminUsuarios.dll
+E:\fanaticketReload\fanaticketReload\bin\Debug\libConectaBD.dll
+E:\fanaticketReload\fanaticketReload\bin\Debug\libFanaticket.dll
+E:\fanaticketReload\fanaticketReload\bin\Debug\libValidaciones.dll
+E:\fanaticketReload\fanaticketReload\bin\Debug\MySql.Data.dll
+E:\fanaticketReload\fanaticketReload\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\fanaticketReload\fanaticketReload\bin\Debug\Npgsql.dll
+E:\fanaticketReload\fanaticketReload\bin\Debug\libValidaciones.pdb
+E:\fanaticketReload\fanaticketReload\bin\Debug\AdminUsuarios.pdb
+E:\fanaticketReload\fanaticketReload\bin\Debug\libConectaBD.pdb
+E:\fanaticketReload\fanaticketReload\bin\Debug\libConectaBD.dll.config
+E:\fanaticketReload\fanaticketReload\bin\Debug\libFanaticket.pdb
+E:\fanaticketReload\fanaticketReload\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\fanaticketReload\fanaticketReload\bin\Debug\MySql.Data.xml
+E:\fanaticketReload\fanaticketReload\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\fanaticketReload\fanaticketReload\bin\Debug\Npgsql.xml
+F:\Desktop\Proyectos\fanaticketReload\fanaticketReload\bin\Debug\fanaticketReload.exe.config
+F:\Desktop\Proyectos\fanaticketReload\fanaticketReload\bin\Debug\fanaticketReload.exe
+F:\Desktop\Proyectos\fanaticketReload\fanaticketReload\bin\Debug\fanaticketReload.pdb
+F:\Desktop\Proyectos\fanaticketReload\fanaticketReload\bin\Debug\AdminUsuarios.dll
+F:\Desktop\Proyectos\fanaticketReload\fanaticketReload\bin\Debug\libConectaBD.dll
+F:\Desktop\Proyectos\fanaticketReload\fanaticketReload\bin\Debug\libFanaticket.dll
+F:\Desktop\Proyectos\fanaticketReload\fanaticketReload\bin\Debug\libValidaciones.dll
+F:\Desktop\Proyectos\fanaticketReload\fanaticketReload\bin\Debug\MySql.Data.dll
+F:\Desktop\Proyectos\fanaticketReload\fanaticketReload\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Desktop\Proyectos\fanaticketReload\fanaticketReload\bin\Debug\Npgsql.dll
+F:\Desktop\Proyectos\fanaticketReload\fanaticketReload\bin\Debug\libValidaciones.pdb
+F:\Desktop\Proyectos\fanaticketReload\fanaticketReload\bin\Debug\AdminUsuarios.pdb
+F:\Desktop\Proyectos\fanaticketReload\fanaticketReload\bin\Debug\libConectaBD.pdb
+F:\Desktop\Proyectos\fanaticketReload\fanaticketReload\bin\Debug\libConectaBD.dll.config
+F:\Desktop\Proyectos\fanaticketReload\fanaticketReload\bin\Debug\libFanaticket.pdb
+F:\Desktop\Proyectos\fanaticketReload\fanaticketReload\bin\Debug\MySql.Data.xml
+F:\Desktop\Proyectos\fanaticketReload\fanaticketReload\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Desktop\Proyectos\fanaticketReload\fanaticketReload\bin\Debug\Npgsql.xml
+F:\Desktop\Proyectos\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.csprojResolveAssemblyReference.cache
+F:\Desktop\Proyectos\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.csproj.fanaticketReload.exe.config
+F:\Desktop\Proyectos\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.Admin.resources
+F:\Desktop\Proyectos\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.Login.resources
+F:\Desktop\Proyectos\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.logo.resources
+F:\Desktop\Proyectos\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.menu.resources
+F:\Desktop\Proyectos\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.Saludo.resources
+F:\Desktop\Proyectos\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.Properties.Resources.resources
+F:\Desktop\Proyectos\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.csproj.GenerateResource.Cache
+F:\Desktop\Proyectos\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.csproj.CoreCompileInputs.cache
+F:\Desktop\Proyectos\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload.exe
+F:\Desktop\Proyectos\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload.pdb
+C:\Users\Bollos\Downloads\fanaticketReload\fanaticketReload\bin\Debug\fanaticketReload.exe.config
+C:\Users\Bollos\Downloads\fanaticketReload\fanaticketReload\bin\Debug\fanaticketReload.exe
+C:\Users\Bollos\Downloads\fanaticketReload\fanaticketReload\bin\Debug\fanaticketReload.pdb
+C:\Users\Bollos\Downloads\fanaticketReload\fanaticketReload\bin\Debug\AdminUsuarios.dll
+C:\Users\Bollos\Downloads\fanaticketReload\fanaticketReload\bin\Debug\libConectaBD.dll
+C:\Users\Bollos\Downloads\fanaticketReload\fanaticketReload\bin\Debug\libFanaticket.dll
+C:\Users\Bollos\Downloads\fanaticketReload\fanaticketReload\bin\Debug\libValidaciones.dll
+C:\Users\Bollos\Downloads\fanaticketReload\fanaticketReload\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Bollos\Downloads\fanaticketReload\fanaticketReload\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Bollos\Downloads\fanaticketReload\fanaticketReload\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Bollos\Downloads\fanaticketReload\fanaticketReload\bin\Debug\Npgsql.dll
+C:\Users\Bollos\Downloads\fanaticketReload\fanaticketReload\bin\Debug\libValidaciones.pdb
+C:\Users\Bollos\Downloads\fanaticketReload\fanaticketReload\bin\Debug\AdminUsuarios.pdb
+C:\Users\Bollos\Downloads\fanaticketReload\fanaticketReload\bin\Debug\libConectaBD.pdb
+C:\Users\Bollos\Downloads\fanaticketReload\fanaticketReload\bin\Debug\libConectaBD.dll.config
+C:\Users\Bollos\Downloads\fanaticketReload\fanaticketReload\bin\Debug\libFanaticket.pdb
+C:\Users\Bollos\Downloads\fanaticketReload\fanaticketReload\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Bollos\Downloads\fanaticketReload\fanaticketReload\bin\Debug\MySql.Data.xml
+C:\Users\Bollos\Downloads\fanaticketReload\fanaticketReload\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Bollos\Downloads\fanaticketReload\fanaticketReload\bin\Debug\Npgsql.xml
+C:\Users\Bollos\Downloads\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.csprojResolveAssemblyReference.cache
+C:\Users\Bollos\Downloads\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.csproj.fanaticketReload.exe.config
+C:\Users\Bollos\Downloads\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.Admin.resources
+C:\Users\Bollos\Downloads\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.Login.resources
+C:\Users\Bollos\Downloads\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.logo.resources
+C:\Users\Bollos\Downloads\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.menu.resources
+C:\Users\Bollos\Downloads\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.Saludo.resources
+C:\Users\Bollos\Downloads\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.Properties.Resources.resources
+C:\Users\Bollos\Downloads\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.csproj.GenerateResource.Cache
+C:\Users\Bollos\Downloads\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload.exe
+C:\Users\Bollos\Downloads\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload.pdb
+C:\Users\Bollos\Desktop\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.csproj.fanaticketReload.exe.config
+C:\Users\Bollos\Desktop\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.Admin.resources
+C:\Users\Bollos\Desktop\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.Login.resources
+C:\Users\Bollos\Desktop\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.logo.resources
+C:\Users\Bollos\Desktop\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.menu.resources
+C:\Users\Bollos\Desktop\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.Saludo.resources
+C:\Users\Bollos\Desktop\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.Properties.Resources.resources
+C:\Users\Bollos\Desktop\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.csproj.GenerateResource.Cache
+C:\Users\Bollos\Desktop\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload.exe
+C:\Users\Bollos\Desktop\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload.pdb
+C:\Users\Bollos\Desktop\fanaticketReload\fanaticketReload\bin\Debug\fanaticketReload.exe.config
+C:\Users\Bollos\Desktop\fanaticketReload\fanaticketReload\bin\Debug\fanaticketReload.exe
+C:\Users\Bollos\Desktop\fanaticketReload\fanaticketReload\bin\Debug\fanaticketReload.pdb
+C:\Users\Bollos\Desktop\fanaticketReload\fanaticketReload\bin\Debug\AdminUsuarios.dll
+C:\Users\Bollos\Desktop\fanaticketReload\fanaticketReload\bin\Debug\libConectaBD.dll
+C:\Users\Bollos\Desktop\fanaticketReload\fanaticketReload\bin\Debug\libFanaticket.dll
+C:\Users\Bollos\Desktop\fanaticketReload\fanaticketReload\bin\Debug\libValidaciones.dll
+C:\Users\Bollos\Desktop\fanaticketReload\fanaticketReload\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Bollos\Desktop\fanaticketReload\fanaticketReload\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Bollos\Desktop\fanaticketReload\fanaticketReload\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Bollos\Desktop\fanaticketReload\fanaticketReload\bin\Debug\Npgsql.dll
+C:\Users\Bollos\Desktop\fanaticketReload\fanaticketReload\bin\Debug\AdminUsuarios.pdb
+C:\Users\Bollos\Desktop\fanaticketReload\fanaticketReload\bin\Debug\libConectaBD.pdb
+C:\Users\Bollos\Desktop\fanaticketReload\fanaticketReload\bin\Debug\libConectaBD.dll.config
+C:\Users\Bollos\Desktop\fanaticketReload\fanaticketReload\bin\Debug\libFanaticket.pdb
+C:\Users\Bollos\Desktop\fanaticketReload\fanaticketReload\bin\Debug\libValidaciones.pdb
+C:\Users\Bollos\Desktop\fanaticketReload\fanaticketReload\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Bollos\Desktop\fanaticketReload\fanaticketReload\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Bollos\Desktop\fanaticketReload\fanaticketReload\bin\Debug\Npgsql.xml
+C:\Users\Bollos\Desktop\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.csprojResolveAssemblyReference.cache
+C:\Proyectos UTH\Cuatri IV\fanaticketReload\fanaticketReload\bin\Debug\fanaticketReload.exe.config
+C:\Proyectos UTH\Cuatri IV\fanaticketReload\fanaticketReload\bin\Debug\fanaticketReload.exe
+C:\Proyectos UTH\Cuatri IV\fanaticketReload\fanaticketReload\bin\Debug\fanaticketReload.pdb
+C:\Proyectos UTH\Cuatri IV\fanaticketReload\fanaticketReload\bin\Debug\AdminUsuarios.dll
+C:\Proyectos UTH\Cuatri IV\fanaticketReload\fanaticketReload\bin\Debug\libConectaBD.dll
+C:\Proyectos UTH\Cuatri IV\fanaticketReload\fanaticketReload\bin\Debug\libFanaticket.dll
+C:\Proyectos UTH\Cuatri IV\fanaticketReload\fanaticketReload\bin\Debug\libValidaciones.dll
+C:\Proyectos UTH\Cuatri IV\fanaticketReload\fanaticketReload\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Proyectos UTH\Cuatri IV\fanaticketReload\fanaticketReload\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Proyectos UTH\Cuatri IV\fanaticketReload\fanaticketReload\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Proyectos UTH\Cuatri IV\fanaticketReload\fanaticketReload\bin\Debug\Npgsql.dll
+C:\Proyectos UTH\Cuatri IV\fanaticketReload\fanaticketReload\bin\Debug\AdminUsuarios.pdb
+C:\Proyectos UTH\Cuatri IV\fanaticketReload\fanaticketReload\bin\Debug\libConectaBD.pdb
+C:\Proyectos UTH\Cuatri IV\fanaticketReload\fanaticketReload\bin\Debug\libConectaBD.dll.config
+C:\Proyectos UTH\Cuatri IV\fanaticketReload\fanaticketReload\bin\Debug\libFanaticket.pdb
+C:\Proyectos UTH\Cuatri IV\fanaticketReload\fanaticketReload\bin\Debug\libValidaciones.pdb
+C:\Proyectos UTH\Cuatri IV\fanaticketReload\fanaticketReload\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Proyectos UTH\Cuatri IV\fanaticketReload\fanaticketReload\bin\Debug\MySql.Data.xml
+C:\Proyectos UTH\Cuatri IV\fanaticketReload\fanaticketReload\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Proyectos UTH\Cuatri IV\fanaticketReload\fanaticketReload\bin\Debug\Npgsql.xml
+C:\Proyectos UTH\Cuatri IV\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.csprojResolveAssemblyReference.cache
+C:\Proyectos UTH\Cuatri IV\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.Admin.resources
+C:\Proyectos UTH\Cuatri IV\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.Login.resources
+C:\Proyectos UTH\Cuatri IV\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.logo.resources
+C:\Proyectos UTH\Cuatri IV\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.menu.resources
+C:\Proyectos UTH\Cuatri IV\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.Saludo.resources
+C:\Proyectos UTH\Cuatri IV\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.Properties.Resources.resources
+C:\Proyectos UTH\Cuatri IV\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload_Desktop.csproj.GenerateResource.Cache
+C:\Proyectos UTH\Cuatri IV\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload.exe
+C:\Proyectos UTH\Cuatri IV\fanaticketReload\fanaticketReload\obj\Debug\fanaticketReload.pdb
